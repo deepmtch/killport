@@ -18,14 +18,14 @@ The script performs the following actions:
 
 ## Usage
 
-1. Save the script to a file (e.g., `kill_port_process.sh`).
+1. Clone this repository or just download the file. 
 2. Make the script executable:
    ```
-   chmod +x kill_port_process.sh
+   chmod +x killport.sh
    ```
 3. Run the script:
    ```
-   ./kill_port_process.sh
+   ./killport.sh
    ```
 4. Follow the on-screen prompts.
 
