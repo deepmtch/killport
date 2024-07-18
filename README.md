@@ -1,6 +1,3 @@
-Certainly, I'll create a README file for this script. Here's a markdown-formatted README that explains the purpose, usage, and important details of the script:
-
-```markdown
 # Port Process Killer
 
 This shell script allows users to find and kill processes using a specific port on a Linux system.
@@ -47,15 +44,3 @@ Feel free to fork this repository and submit pull requests for any improvements 
 ## Support
 
 For issues, questions, or contributions, please open an issue in the GitHub repository.
-```
-
-This README provides:
-
-1. A brief description of the script's functionality.
-2. Prerequisites for using the script.
-3. Step-by-step usage instructions.
-4. A warning about the forceful nature of the kill command.
-5. License information.
-6. Information on how to contribute or get support.
-
-You can save this content in a file named `README.md` in the same directory as your script. This will provide users with clear information about the script's purpose and how to use it.
